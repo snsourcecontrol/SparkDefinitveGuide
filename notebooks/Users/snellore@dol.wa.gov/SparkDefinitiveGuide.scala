@@ -7,6 +7,10 @@ val flightData2015 = spark
 
 // COMMAND ----------
 
+3 + 2
+
+// COMMAND ----------
+
 flightData2015.take(3)
 
 // COMMAND ----------
